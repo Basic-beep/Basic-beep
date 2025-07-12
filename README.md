@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on GenPass, a simple password generator.
+- 🔭 I’m currently working on a website for GenPass, a simple password generator.
 - 🌱 I’m currently learning Python and C++
 - 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with C++
-- 💬 Ask me about ...
-- 📫 How to reach me: Dm me on slack
+- 🤔 I’m looking for help with C++, Css 
+- 💬 Ask me about my cats
+- 📫 How to reach me: Dm me on Slack
 - 😄 Pronouns: He/him/His
-- ⚡ Fun fact: I am going to start a [Hack Club](hackclub.com)
+- ⚡ Fun fact: I plan to start a [Hack Club](hackclub.com)
