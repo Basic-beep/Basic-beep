@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on a school, but im thinking of things for a project soon :3
 - 🌱 I’m currently learning Gleam, but mostly focusing on Cyber Security
 - 👯 I’m looking to collaborate on NOTHING!
-- 🤔 I’m looking for help with  
-- 💬 Ask me about my cats
+- 🤔 I’m looking for help with  NOTHING!
+- 💬 Ask me about NOTHING!
 - 📫 How to reach me: Don't!
 - ⚡ Fun fact: uhhh uhm uhmh uhmm i really enjoy pvz
 
