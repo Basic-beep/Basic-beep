@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a school, but im thinking of things for a project soon :3
+- 🔭 I’m currently working on a school, but soon ill start working on the OpenIntercom
 - 🌱 I’m currently learning Gleam, but mostly focusing on Cyber Security
 - 👯 I’m looking to collaborate on NOTHING!
 - 🤔 I’m looking for help with  NOTHING!
