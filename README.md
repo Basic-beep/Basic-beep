@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dont. im serious if you somehow have my email and are reading this, dont email me.**
 
-- ⚡ Fun fact **Ive started using offline music-players, and supporting artists I like separately, through MusicBee on PC and Rockbox on a ipod classic 6th Gen**
+- ⚡ Fun fact **Ive started using offline music-players, and supporting artists I like separately on bandcamp. the softwares i use are MusicBee on PC and Rockbox on a ipod classic 6th Gen**
 
 
 
