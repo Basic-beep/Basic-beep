@@ -1,5 +1,5 @@
 <h1 align="center">Hai there! im Sphinx</h1>
-- 🔭 I’m currently working on **School, but im gonna start working on OpenIntercom**
+- 🔭 I’m currently working on School, but im gonna start working on OpenIntercom
 
 - 🌱 I’m currently learning **Gleam**
 
